@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+
+    <string name="app_name">Uppgift 1: Slumpmässiga citat!</string>
+
+    <string name="hello_world">Hallå världen!</string>
+    <string name="action_settings">Inställningar</string>
+    <string name="nextBtn">Nästa citat</string>
+    <string name="randomQuote">Slumpmässigt citat kommer upp här!</string>
+</resources>

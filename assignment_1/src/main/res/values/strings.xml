@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Assignment 1: Random Quotes!</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="nextBtn">Next Quote</string>
+    <string name="randomQuote">Random quotes will appear here!</string>
+</resources>
