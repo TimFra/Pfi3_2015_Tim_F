@@ -9,6 +9,8 @@
     <string name="reseplan_to">Till</string>
     <string name="reseplan_from">Från</string>
     <string name="reseplan_search">Sök</string>
+    <string name="arrival">Ankomst</string>
+    <string name="departing">Avgång</string>
 <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
