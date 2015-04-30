@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" tools:context="se.mah.assignment3.ExpFragment"
+    android:theme="@style/CustomActionBarTheme">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+            <Spinner
+                android:layout_width="190dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/spinner2"
+                android:layout_gravity="right"
+                android:layout_below="@+id/textView2"
+                android:entries="@array/toSpinner"
+                android:layout_alignParentEnd="true" />
+
+            <Spinner
+                android:layout_width="156dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/spinner"
+                android:spinnerMode="dropdown"
+                android:entries="@array/courses"
+                android:layout_below="@+id/textView"
+                android:layout_toStartOf="@+id/textView2" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/from"
+                android:id="@+id/textView"
+                android:layout_marginEnd="71dp"
+                android:layout_alignParentTop="true"
+                android:layout_toStartOf="@+id/spinner2" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/to"
+                android:id="@+id/textView2"
+                android:layout_marginStart="80dp"
+                android:layout_alignParentTop="true"
+                android:layout_toEndOf="@+id/textView" />
+        </RelativeLayout>
+
+        <ExpandableListView
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/expandableListView"
+            android:groupIndicator="@null"/>
+
+    </LinearLayout>
+</FrameLayout>

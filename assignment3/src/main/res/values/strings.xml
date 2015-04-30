@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Reseplaneraren</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="from">Från</string>
+    <string name="to">Till</string>
+    <string name="refresh">Refresh</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="courses">
+        <item>Malmö</item>
+        <item>Hässleholm</item>
+        <item>Halmstad</item>
+        <item>Köpenhamn</item>
+    </string-array>
+
+    <string-array name="toSpinner">
+        <item>Halmstad</item>
+        <item>Hässleholm</item>
+        <item>Malmö</item>
+        <item>Köpenhamn</item>
+    </string-array>
+
+</resources>
