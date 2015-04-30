@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Planet Information</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="earth_name">Earth \n(Lagom)</string>
+    <string name="jupiter_name">Jupiter \n(−108.15C)</string>
+    <string name="mars_name">Mars \n(−63 C)</string>
+    <string name="saturn_name">Saturn \n(−139C)</string>
+    <string name="uranus_name">Uranus \n(−197.2C)</string>
+    <string name="neptune_name">Neptune \n(−201C)</string>
+
+    <string name="neptune_description">Some of the earliest recorded observations ever made through a telescope, Galileos drawings on 28 December 1612 and 27 January 1613, contain plotted points that match up with what is now known to be the position of Neptune. On both occasions, Galileo seems to have mistaken Neptune for a fixed star when it appeared close—in conjunction—to Jupiter in the night sky; hence, he is not credited with Neptunes discovery.</string>
+    <string name="earth_description">Earth gravitationally interacts with other objects in space, especially the Sun and the Moon. During one orbit around the Sun, Earth rotates about its own axis 366.26 times, creating 365.26 solar days or one sidereal year.</string>
+    <string name="mars_description">Mars is host to seven functioning spacecraft: five in orbit—2001 Mars Odyssey, Mars Express, Mars Reconnaissance Orbiter, MAVEN and Mars Orbiter Mission—and two on the surface—Mars Exploration Rover Opportunity and the Mars Science Laboratory Curiosity. Defunct spacecraft on the surface include MER-A Spirit and several other inert landers and rovers such as the Phoenix lander, which completed its mission in 2008. Observations by the Mars Reconnaissance Orbiter have revealed possible flowing water during the warmest months on Mars.</string>
+    <string name="jupiter_description">Jupiters upper atmosphere is composed of about 88–92 percent hydrogen and 8–12 percent helium by percent volume of gas molecules. Because a helium atom has about four times as much mass as a hydrogen atom, the composition changes when described as the proportion of mass contributed by different atoms.</string>
+    <string name="saturn_description">Despite consisting mostly of hydrogen and helium, most of Saturns mass is not in the gas phase, because hydrogen becomes a non-ideal liquid when the density is above 0.01 gcm3, which is reached at a radius containing 99.9 percent of Saturns mass. The temperature, pressure, and density inside Saturn all rise steadily toward the core, which, in the deeper layers, cause hydrogen to transition into a metal.</string>
+    <string name="uranus_description">Uranus had been observed on many occasions before its recognition as a planet, but it was generally mistaken for a star. Possibly the earliest known observation was by Hipparchos, who in 128BC may have recorded the planet as a star for his star catalogue that was later incorporated into Ptolemys Almagest.</string>
+
+    <string name="dialog_title">Utvecklare Torsten</string>
+    <string name="dialog_description">"The term planet is ancient, with ties to history, science, mythology, and religion. Several planets in the Solar System can be seen with the naked eye."</string>
+
+
+
+</resources>
